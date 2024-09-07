@@ -1,2 +1,3 @@
 # DuolingoResponder
 This ai will answer your duolingo style questions. PS: This ai will be enchanced with deep reinforcement learning in the future.
+Currently this ai doesn't have an interactable interface. In the future I will add this too.
